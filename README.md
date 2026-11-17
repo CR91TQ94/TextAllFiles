@@ -38,6 +38,12 @@ photo.png.base64.txt  →  photo.png
 
 ## Usage
 
+Simple:
+
+Install Python from python.org
+
+Run it with IDLE.
+
 ### Interactive menu (no arguments)
 
 ```bash
