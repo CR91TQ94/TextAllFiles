@@ -1,16 +1,4 @@
 #!/usr/bin/env python3
-"""
-b64tool.py - convert any file to a printable base64 .txt file and back.
-
-Usage:
-    python3 b64tool.py                      # interactive menu
-    python3 b64tool.py encode  <file>  [out.base64.txt]
-    python3 b64tool.py decode  <file.base64.txt>  [output_file]
-
-Encoding:  photo.png  ->  photo.png.base64.txt   (76 characters per line)
-Decoding:  photo.png.base64.txt  ->  photo.png   (suggested name; you can change it)
-"""
-
 import base64
 import binascii
 import os
