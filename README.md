@@ -31,7 +31,7 @@ Takes a base64 .txt file and writes back the original binary file.
 Example:
 
 ```
-photo.png.base64.txt  →  photo.png
+photo.png.base64.txt  ->  photo.png
 ```
 
 ---
