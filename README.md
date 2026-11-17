@@ -40,9 +40,8 @@ photo.png.base64.txt  →  photo.png
 
 Simple:
 
-Install Python from python.org
-
-Run it with IDLE.
+1. Install Python from python.org
+2. Run it with IDLE.
 
 ### Interactive menu (no arguments)
 
